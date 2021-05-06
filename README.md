@@ -1,5 +1,12 @@
 # Design-Rules-Notes 
   Principles + Practices for Great UI Design
+  * UI Design Mantra 1: design is design is design (how humans react to what they see and why)
+  * UI Design Mantra 2: stop solving other people's problems (your probs are your own)
+  * UI Design Mantra 3: form doesn't & shouldn't follow function (the two have to work together)
+  * UI Design Mantra 4: every force evolves form (impact forces play a role in what it looks like)
+  * UI Design Mantra 5: on small screens, less is more  (we want quick, ease of use, and simple)
+  * UI Design Mantra 6 : balance creates visual order & signals relationships  (individual elements do not compete with the whole)
+
 
 ## 1. Ground Rules
   What You Need to Know Upfront
@@ -49,6 +56,11 @@
     - less is more
 
 ## 2. Organizing Visual Information
+  - ensure pos & neg space fit together so one doesn't overpower the other
+  - individual elements shouldn't compete with the whole
+  - the job of balance is to create order and signal relationships
+  - balanced space allows user to quickly scan and group related elements
+  - negative space works to signal visual hierarchy
 
 ## 3. Using Color and Contrast Appropriately
 
