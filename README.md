@@ -1,12 +1,17 @@
 # Design-Rules-Notes 
   Principles + Practices for Great UI Design
-  * UI Design Mantra 1: design is design is design (how humans react to what they see and why)
-  * UI Design Mantra 2: stop solving other people's problems (your probs are your own)
-  * UI Design Mantra 3: form doesn't & shouldn't follow function (the two have to work together)
-  * UI Design Mantra 4: every force evolves form (impact forces play a role in what it looks like)
-  * UI Design Mantra 5: on small screens, less is more  (we want quick, ease of use, and simple)
-  * UI Design Mantra 6 : balance creates visual order & signals relationships  (individual elements do not compete with the whole)
-
+  * UI Design Mantras:
+  - 1: Design is design is design (how humans react to what they see and why)
+  - 2: Stop solving other people's problems (your probs are your own)
+  - 3: Form doesn't & shouldn't follow function (the two have to work together)
+  - 4: Every force evolves form (impact forces play a role in what it looks like)
+  - 5: On small screens, less is more  (we want quick, ease of use, and simple)
+  - 6: Balance creates visual order & signals relationships  (individual elements do not compete with the whole)
+  - 7: Visual rhythm speeds comprehension and use (consistent repetitous structure/flow)
+  - 8: Good design is held together by harmony (visual elements relating/complementing each other)
+  - 9: Dominance directs user focus (creates a focal point, highlighting important part)
+  - 10: Align everything with everything else
+  - 11: Group & organize related content w/proximity
 
 ## 1. Ground Rules
   What You Need to Know Upfront
@@ -61,6 +66,17 @@
   - the job of balance is to create order and signal relationships
   - balanced space allows user to quickly scan and group related elements
   - negative space works to signal visual hierarchy
+  - all visual design has rhythmic consistency and controlled structure
+  - visual elements must relate and complement each other in harmony
+  - harmony is directional (guides user to a certain place)
+  - harmony creates clear and purposeful flow
+  - dominance is achieved by emphasizing one or more visual elements
+  - dominance creates a focal point will people will instinctively go at first glance
+  - without clear dominance, elements compete w/each other 
+  - contrast supersedes size when it comes to dominance
+  - more negative space creates more dominance
+  - aligning elements that are related by context creates visual order
+  - proximity often supersedes color/contrast to show separation
 
 ## 3. Using Color and Contrast Appropriately
 
