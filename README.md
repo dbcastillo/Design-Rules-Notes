@@ -112,6 +112,30 @@
 
 
 ## 4. Designing with Typography and Imagery
+  - 95% of what we see on screens are text based language
+  - typography creates emotional impact
+  - more than just font; purposefully utilizing size, weight, space, style, etc
+  - never center align paragraphs (hard on brain and eyes)
+  - space between letters is kerning
+  - leading is space between lines of text
+  - typography rules:
+    - 1: Two typefaces max; character widths and weights should be complementary 
+      avenir & georgia have similar character widths
+    - 2: Limit line width; eye works harder when too wide
+    - 3: Choose Readability; 
+    - 4: Choose legibility; beware of L's that look like I's
+    - 5: Use space b/w paragraphs; visual breaks giving eye rest
+    - 6: Align text elements using baselines; mult text elements should share common alignment
+    - 7: Use styles to visually differentiate content; typeface should have at least 3 styles >> regular, italic, bold
+  - imagery rules:
+    - 1: make sure it serves its purpose; what message does it send
+    - 2: focus on people not things; person using product, not just product
+    - 3: cropping can change meaning
+    - 4: never go for cheap shot, especially sexist; don't objectify
+    - 5: don't forget the power of illustration; can sometimes be more impactful
+  - dos and donts:
+    - dont default to stock photos
+    
 
 ## 5. Creating and Simplifying Visual Cues
 
