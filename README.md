@@ -12,6 +12,9 @@
   - 9: Dominance directs user focus (creates a focal point, highlighting important part)
   - 10: Align everything with everything else
   - 11: Group & organize related content w/proximity
+  - 12: Use color to communicate & influence interaction
+  - 13: Choose color based on associations, emotion, brand
+  - 14: Contrast always wins 
 
 ## 1. Ground Rules
   What You Need to Know Upfront
@@ -79,6 +82,34 @@
   - proximity often supersedes color/contrast to show separation
 
 ## 3. Using Color and Contrast Appropriately
+  - color gets attention and stirs emotional response
+  - be consistent to avoid confusion
+  - color creates connection/continuity
+  - color implies meaning (must do research, know audience, know effect)
+  - color should never be sole differentiator of the UI elements
+  - are you using color correctly? (used sparingly, reinforce/interfere with content hierarchy, will this be functional for someone color blind)
+  - black >>> authority & power, timeless, cool
+  - white >>> innocence & purity, cleanliness, peace
+  - red >>> alarm & urgency, attention, warning, love
+  - pink >>> romance, grace, compassion, female
+  - blue >>> peaceful, tranquil, business, tech, male (association with sky)
+  - green >>> nature, calming, relaxing
+  - yellow >>> optimism, happiness, warmth, joy, hope (association with sunlight) 
+  - purple >>> royalty, wealth, luxury, feminine, romantic
+  - brown >>> nature, earth, friendship, genuineness
+
+  - lighter shades of blue >>> friendlier, trust
+  - darker shades of blue >>> suggest security
+  - 4 color variations req'd for good UI design   
+    - shadows, midtones, highlights, accents
+  - contrast ensures you pay attention and take the right actions
+  - contrast enables readability when using stark, complementary colors
+  - contrast directs focus, ideally to core content
+  - secondary content should have less contrast
+  - contrast helps understand relationships b/w elements
+  - contrast communicates hierarchy
+  - color and contrast depend on context
+
 
 ## 4. Designing with Typography and Imagery
 
